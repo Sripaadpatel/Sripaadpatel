@@ -7,4 +7,12 @@ I am a Senior Under Officer in NCC and a B.Tech student at NIT Warangal.
 
 ---
 ### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->Wait for the WakaTime Graph to update...<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+```txt
+From: 08 January 2026 - To: 15 January 2026
+
+Python   7 mins          █████████████████████████   100.00 %
+```
+
+<!--END_SECTION:waka-->

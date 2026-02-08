@@ -10,7 +10,7 @@ I am a Senior Under Officer in NCC and a B.Tech student at NIT Warangal.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 January 2026 - To: 07 February 2026
+From: 01 February 2026 - To: 08 February 2026
 
 Python     13 mins         ████████████▓░░░░░░░░░░░░   50.96 %
 C++        12 mins         ███████████▒░░░░░░░░░░░░░   45.35 %

@@ -10,13 +10,10 @@ I am a Senior Under Officer in NCC and a B.Tech student at NIT Warangal.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2026 - To: 26 May 2026
+From: 20 May 2026 - To: 27 May 2026
 
-Python       1 hr 6 mins           █████████████▓░░░░░░░░░░░   54.92 %
-Bash         21 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
-C++          14 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-Text         11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-Git Config   5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+Python   42 mins               ████████████████████▓░░░░   82.49 %
+Text     9 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
 ```
 
 <!--END_SECTION:waka-->
